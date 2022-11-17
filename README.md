@@ -1,2 +1,2 @@
 # Natours-Project
-Project built practicing CSS and SASS
+Project built practicing CSS, SASS and adaptability
